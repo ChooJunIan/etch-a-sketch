@@ -1,0 +1,6 @@
+.divRow {
+  display: flex;
+  gap: 8px;
+  padding: 16px;
+  justify-content: space-around;
+}
