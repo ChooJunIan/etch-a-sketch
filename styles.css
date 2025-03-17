@@ -29,3 +29,15 @@ button {
 .colouredBox {
   background-color: black;
 }
+
+h1,
+h2, 
+h4 {
+  margin: 8px;
+  text-align: center;
+}
+
+h2, 
+h4 {
+  color: rgb(93, 90, 90)
+}
