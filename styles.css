@@ -12,9 +12,9 @@ button {
 
 .container {
   padding: 8px;
-  border-style: dotted;
+  border-style: solid;
   border-color: red;
-  width: 500px;
+  flex-basis: 960px 960px;
 }
 
 .divRow {
@@ -22,8 +22,8 @@ button {
 }
 
 .box {
-  width: 35px;
-  height: 35px;
+  height: 10px;
+  width: 10px;
 }
 
 .colouredBox {
